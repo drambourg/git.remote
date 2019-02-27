@@ -1,0 +1,2 @@
+Remarque : c'est une bonne pratique de créer systématiquement un fichier nommé README.md qui contiendra les informations essentielles à tout développeur reprenant le projet (technologies utilisées, conseils pour l'installation, etc.)
+Distributed as part of the Git bash completion hook, the __git_ps1 function shows handy information about the current Git state in your prompt whenever you’re inside a Git checkout. For example:
